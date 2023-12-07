@@ -1,0 +1,14 @@
+C:\Users\Святик\Desktop\che\bin\Debug\net7.0\che.exe
+C:\Users\Святик\Desktop\che\bin\Debug\net7.0\che.deps.json
+C:\Users\Святик\Desktop\che\bin\Debug\net7.0\che.runtimeconfig.json
+C:\Users\Святик\Desktop\che\bin\Debug\net7.0\che.dll
+C:\Users\Святик\Desktop\che\bin\Debug\net7.0\che.pdb
+C:\Users\Святик\Desktop\che\obj\Debug\net7.0\che.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Святик\Desktop\che\obj\Debug\net7.0\che.AssemblyInfoInputs.cache
+C:\Users\Святик\Desktop\che\obj\Debug\net7.0\che.AssemblyInfo.cs
+C:\Users\Святик\Desktop\che\obj\Debug\net7.0\che.csproj.CoreCompileInputs.cache
+C:\Users\Святик\Desktop\che\obj\Debug\net7.0\che.dll
+C:\Users\Святик\Desktop\che\obj\Debug\net7.0\refint\che.dll
+C:\Users\Святик\Desktop\che\obj\Debug\net7.0\che.pdb
+C:\Users\Святик\Desktop\che\obj\Debug\net7.0\che.genruntimeconfig.cache
+C:\Users\Святик\Desktop\che\obj\Debug\net7.0\ref\che.dll
